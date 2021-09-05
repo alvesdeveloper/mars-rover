@@ -1,0 +1,7 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alves.developer@gmail.com",
+  "license": "MIT"
+}
