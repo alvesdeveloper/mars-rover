@@ -39,7 +39,7 @@ Expected Output:
 ==========
 
 
-Em portuguê..
+Em português..
 
 === Sondas à Marte
 
